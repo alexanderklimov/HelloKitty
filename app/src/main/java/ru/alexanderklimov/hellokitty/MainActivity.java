@@ -1,3 +1,6 @@
+// Если этот код работает, его написал Александр Климов,
+// а если нет, то не знаю, кто его писал.
+
 package ru.alexanderklimov.hellokitty;
 
 import android.os.Bundle;
